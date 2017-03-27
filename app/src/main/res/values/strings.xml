@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Filterable Adapter</string>
+
+
+ <string name="some_text">
+  Display and Filter some North American Countries!
+ </string>
+ <string name="some_hint">
+  Type here to filter&#8230;
+ </string>
+</resources>
